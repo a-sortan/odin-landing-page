@@ -46,6 +46,11 @@ nav ul {
   min-width: 600px;
 }
 
+a  {
+  color: #e5e7eb;
+  text-decoration: none;
+}
+
 h1 {
   font-size: 48px;
   font-weight: bold;
