@@ -105,3 +105,20 @@ button {
 .feature p {
   text-align: center;
 }
+
+.testimonials {
+  background-color: #e5e7eb;
+  padding: 88px;
+}
+
+blockquote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1f2937;
+}
+
+blockquote footer {
+  text-align: end;
+  font-weight: bold;
+}
